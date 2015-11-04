@@ -1,0 +1,1 @@
+BOOL GameInitialize(HINSTANCE jInstacnce)
